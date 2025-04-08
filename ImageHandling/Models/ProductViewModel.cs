@@ -15,5 +15,7 @@ namespace ImageHandling.Models
         [Required]
         public IFormFile photo { get; set; } = null!;
         // comment added
+        // added another comment
+        // added another comment
     }
 }
